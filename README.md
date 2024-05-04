@@ -1,4 +1,4 @@
 # ElectronEase
-Make Electron Projects Easier
+Make Electron Projects Easier & Simple 
 ## Running
 Simple Install & Run CreateProject.bat
